@@ -1,3 +1,7 @@
+
+
+<img width="541" height="302" alt="Topologi" src="https://github.com/user-attachments/assets/5c389485-b866-4409-9e9d-374013e538e4" />
+
 # Basic Routing & Switching Configuration
 
 Proyek ini adalah simulasi jaringan menggunakan Cisco Packet Tracer yang mendemonstrasikan praktik *Basic Configuration* pada perangkat Router dan Switch Cisco.
